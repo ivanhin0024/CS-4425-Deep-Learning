@@ -1,0 +1,10 @@
+# Replace these with the exact versions from your environment (see README / instructions).
+# torch was verified as 2.11.0 built for CUDA 12.8 (2.11.0+cu128).
+# For a CUDA build on Windows, install torch first with:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+torch==2.11.0
+torchvision
+numpy
+matplotlib
+scikit-learn
+tqdm
