@@ -1,0 +1,13 @@
+make to not look for common but for the child sample data
+make sample data from the clean files from my clean data, India 
+clean it and submit to GitHub 
+
+starting lmp model 
+start research and deicide what variable 
+
+Read me update and what we did and the instructions 
+04 connect a sample of both India and Ethiopia and combined 
+change code for Ethiopia 
+using Ethiopia clean data make a sample about a dozen so it can run for 04 child
+make update for it to run in GitHub 
+
